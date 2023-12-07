@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f3cd5e76c0a2c14ca4d2957271cb85d, type: 3}
+  m_Name: Rogue_02_Hood
+  m_EditorClassIdentifier: 
+  ItemName: Green Hood
+  price: 15
+  type: 1
+  Spr_Head_Skin: {fileID: 0}
+  Spr_Head_Face: {fileID: 21300000, guid: 8e016bdb4d00e70429de56b91135940c, type: 3}
+  Spr_Head_Hair: {fileID: 21300000, guid: f7e7bed775fff8347b9e53c67e20875f, type: 3}
+  Spr_WristL: {fileID: 0}
+  Spr_WristR: {fileID: 0}
+  Spr_WeaponL: {fileID: 0}
+  Spr_WeaponR: {fileID: 0}
+  Spr_ElbowL: {fileID: 0}
+  Spr_ElbowR: {fileID: 0}
+  Spr_ShoulderL: {fileID: 0}
+  Spr_ShoulderR: {fileID: 0}
+  Spr_Torso: {fileID: 0}
+  Spr_LegL: {fileID: 0}
+  Spr_LegR: {fileID: 0}
+  Spr_BootL: {fileID: 0}
+  Spr_BootR: {fileID: 0}
+  Spr_Pelvis: {fileID: 0}
