@@ -6,7 +6,7 @@ using UnityEngine;
 [Serializable]
 public class PlayerData
 {
-    [SerializeField] private int _money = 100;
+    [SerializeField] private int _money = 25;
     public int Money { get { return _money; } private set { _money = value; } }
 
 
@@ -26,5 +26,11 @@ public class PlayerData
         Items.Remove(item);
 
         Money -= item.price;
+    }
+
+
+    public void SetMoney(int money)
+    {
+        Money = money;
     }
 }

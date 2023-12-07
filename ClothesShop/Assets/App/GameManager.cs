@@ -46,4 +46,13 @@ public class GameManager : MonoBehaviour
 
         PlayerData = new PlayerData();
     }
+
+
+    public void SetPlayerMoney(string value)
+    {
+        if (int.TryParse(value, out int money))
+        {
+            PlayerData.SetMoney(money);
+        }
+    }
 }

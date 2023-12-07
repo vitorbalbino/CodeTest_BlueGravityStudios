@@ -221,28 +221,6 @@
                 },
                 {
                     "name": "",
-                    "id": "f46d6b8b-ddb7-4004-863b-156590e9f6e1",
-                    "path": "<Keyboard>/enter",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Inventory",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "86778666-b54e-4da2-bf8d-fa6e73179eca",
-                    "path": "<Keyboard>/numpadEnter",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Inventory",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
                     "id": "578ee079-46c3-4e0f-8e9a-60974f5008e6",
                     "path": "<Keyboard>/b",
                     "interactions": "",
